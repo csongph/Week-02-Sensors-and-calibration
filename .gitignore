@@ -45,3 +45,4 @@ managed_components/
 # Temporary files
 *.tmp
 *.bak
+/.obsidian
